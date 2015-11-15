@@ -1,7 +1,7 @@
 /*
  * Title: Flag creator
  * Author: Luc van der Zandt 
- * Version: v0.1
+ * Version: v0.2
  *
  */
 
